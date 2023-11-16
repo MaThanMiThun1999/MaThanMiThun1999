@@ -1,4 +1,4 @@
-[![MasterHead](https://mathanmithun.neocities.org/github-header-image.png)](https://github.com/MaThanMiThun1999)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/MaThanMiThun1999)
 <h2 align="center">Hi 👋, I'm MaThanMiThun</h2>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="coding">
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **front-end development**
 
-- 📫 How to reach me **mathanmithun8838@gmail.com**
+- 📫 Reach me at **mathanmithun8838@gmail.com**
 
 - 📄 See me CV [Download CV](https://mathanmithun.neocities.org/Mathanraj.pdf)
 
