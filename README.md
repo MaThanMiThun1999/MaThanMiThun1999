@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://twitter.com/mathan_mithun" target="blank"><img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-twitter-4703924-3915176.png?f=webp" alt="mathan_mithun" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/mathanraj-murugesan" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/268/877/png-transparent-linkedin-company-application-social-media-logo-social-media-logo-3d-icon-thumbnail.png" height="40" width="40" /></a>
-<a href="https://fb.com/mãthâñ mīthüñ" target="blank"><img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-facebook-4703920-3915172.png" alt="mãthâñ mīthüñ" height="40" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100011065608887" target="blank"><img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-facebook-4703920-3915172.png" alt="mãthâñ mīthüñ" height="40" width="40" /></a>
 <a href="https://instagram.com/its.me_mathan_mithun" target="blank"><img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/instagram-4703914-3915166.png?f=webp" alt="its.me_mathan_mithun" height="40" width="40" /></a>
 </p>
 
